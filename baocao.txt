@@ -1,0 +1,21 @@
+BÁO CÁO THỐNG KÊ SINH VIÊN
+=======================================================
+Tổng số sinh viên          : 10
+Điểm trung bình            : 8.16
+Số sinh viên đạt (>= 5.0)  : 10
+Số sinh viên không đạt     : 0
+=======================================================
+
+DANH SÁCH CHI TIẾT:
+Mã SV    Họ và tên                    Điểm   Trạng thái
+-----------------------------------------------------------------
+SV001    Nguyễn Văn An                7.5    Đạt
+SV002    Trần Thị Bình                8.0    Đạt
+SV003    Lê Hoàng Cường               9.2    Đạt
+SV004    Phạm Minh Dũng               6.8    Đạt
+SV005    Hoàng Thị Lan                8.5    Đạt
+SV006    Đặng Quang Minh              7.0    Đạt
+SV007    Vũ Thị Ngọc                  9.5    Đạt
+SV008    Bùi Văn Hải                  8.3    Đạt
+SV009    Phan Thị Thu                 9.0    Đạt
+SV010    Lý Minh Quân                 7.8    Đạt
